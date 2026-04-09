@@ -1,0 +1,15 @@
+{
+  "name": "auto-session-title",
+  "description": "Automatically generates ai-title for sessions that are missing one. Fixes the issue where /resume shows unrecognizable session entries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jimmy Chang"
+  },
+  "license": "MIT",
+  "keywords": [
+    "session",
+    "title",
+    "resume",
+    "auto-title"
+  ]
+}
